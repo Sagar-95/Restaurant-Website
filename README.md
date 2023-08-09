@@ -1,5 +1,5 @@
 # Sagar's Cuisine
 
-**A HTML CSS Project**. Mede with ♥ by Sagar <br>
+**A HTML CSS Project**. Made with ♥ by Sagar <br>
 live Preview: [Click Me]()
 
